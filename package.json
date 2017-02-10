@@ -1,0 +1,23 @@
+{
+  "name": "showcase-angular",
+  "version": "1.0.0",
+  "description": "This is Eric's Demo angular app",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricZhaoCherryTomato/AngularApp.git"
+  },
+  "author": "Eric Zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricZhaoCherryTomato/AngularApp/issues"
+  },
+  "homepage": "https://github.com/EricZhaoCherryTomato/AngularApp#readme"
+}
